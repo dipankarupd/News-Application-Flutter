@@ -4,4 +4,4 @@ A simple news displaying application which displays the news taken from external
 This app is an example for a blog on the usage of clean architecture pattern in flutter along with Bloc and many other librarires.
 
 Checkout my blog here for more info:
-[Blog Link](https://www.youtube.com/watch?v=JF35TdAT1Xw)
+[Blog Link](https://github.com/dipankarupd/News-Application-Flutter)
